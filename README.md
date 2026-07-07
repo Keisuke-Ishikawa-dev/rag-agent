@@ -59,7 +59,7 @@ User Question
 
 ```bash
 # 1. Clone and configure
-git clone https://github.com/your-username/rag-agent.git
+[git clone https://github.com/your-username/rag-agent.git](https://github.com/Keisuke-Ishikawa-dev/rag-agent.git)
 cd rag-agent
 cp .env.example .env
 # Edit .env and add your OPENAI_API_KEY
